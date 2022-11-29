@@ -1,4 +1,4 @@
-- Made by LittleJotinha
+- Made by 2Artuur
 local plrs = game:GetService("Players")
 local TeamBased = true ; local teambasedswitch = "o"
 local presskeytoaim = true; local aimkey = "e"
